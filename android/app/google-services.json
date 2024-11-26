@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "948689514953",
+    "project_id": "carsys-e0e31",
+    "storage_bucket": "carsys-e0e31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948689514953:android:7ed86b236aafc01c7db818",
+        "android_client_info": {
+          "package_name": "com.example.carsys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1tZyJWch_EQZvSiEqfFgfVKw0NKDCB9E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
